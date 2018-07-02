@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+To start the server run the following at the command line: `bin/rails server`
