@@ -1,5 +1,5 @@
 /* Copyright © 2017 American Red Cross
- * 
+ *
  * Permission is hereby granted, free of charge, to any person
  * obtaining a copy of this software and associated documentation
  * files (the “Software”), to deal in the Software without
@@ -8,10 +8,10 @@
  * copies of the Software, and to permit persons to whom the
  * Software is furnished to do so, subject to the following
  * conditions:
- * 
+ *
  * The above copyright notice and this permission notice shall be
  * included in all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
  * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
  * OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
@@ -33,6 +33,8 @@ var mapinit = {
   lng: -87.66,
   zoom: 11
 };
+
+console.log('hello world');
 
 // Creating new panes and setting the z-index allow neighborhood polygons to
 // sit below census tracts and labels to be visible over other layers.
